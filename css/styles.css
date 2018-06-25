@@ -1,0 +1,38 @@
+.positiveColor{
+    background-color: lightgreen;
+}
+.negativeCOlor{
+    background-color: red;
+}
+
+.body{
+    text-align: auto;
+    color: black;
+
+}
+
+.container{
+    height: 720px;
+    width: 800px;
+    display: block;
+    margin: auto;
+   padding: 40px;
+}
+
+.imagesconatiner{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 70px;
+}
+.images{
+    width: 100%;
+    height: 100%;
+}
+.name, .description, .rating, h1{
+    text-align: center
+}
+
+body {
+    background-image: url("https://wallpaperdata.com/wp-content/uploads/data/2017/12/12/full-size-cream-colored-backgrounds-1920x1080-WTG20029809.jpg?w=609&h=343");
+}
